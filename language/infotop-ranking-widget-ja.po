@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: infotop-ranking-widget\n"
+"POT-Creation-Date: 2013-04-02 17:05+0900\n"
+"PO-Revision-Date: 2013-04-02 18:24+0900\n"
+"Last-Translator: u4mo.com <support@u4mo.com>\n"
+"Language-Team: u4mo.com <support@u4mo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\iwasaki\\Desktop\\task\\plugins\\infotop-"
+"ranking-widget\n"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:20
+msgid "Infotop ranking widget"
+msgstr "インフォトップランキングウィジェット"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:24
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:43
+msgid "Infotop Ranking"
+msgstr "インフォトップ売れ筋ランキング"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:35
+msgid "Title:"
+msgstr "タイトル："
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:54
+msgid "Affiliate ID:"
+msgstr "アフィリエイトID："
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:63
+msgid "Category:"
+msgstr "カテゴリ："
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:132
+msgid "Hot(24h)"
+msgstr "売れ筋（24時間）"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:133
+msgid "Business"
+msgstr "ビジネス・稼ぐ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:134
+msgid "Info entrepreneurs"
+msgstr "情報起業"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:135
+msgid "Affiliate"
+msgstr "アフィリエイト"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:136
+msgid "Auction"
+msgstr "オークション"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:137
+msgid "Other(Net Business)"
+msgstr "その他ネットビジネス"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:138
+msgid "SOHO/Entrepreneurship"
+msgstr "SOHO・独立・起業・営業支援"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:139
+msgid "Other(Business)"
+msgstr "その他ビジネス"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:140
+msgid "Money/Investment"
+msgstr "マネー・運用"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:141
+msgid "FX"
+msgstr "FX"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:142
+msgid "Stock"
+msgstr "株式（IPO・現物・信用）"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:143
+msgid "Futures trading"
+msgstr "先物取引その他"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:144
+msgid "Fund/Real estate"
+msgstr "ファンド・不動産・その他"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:145
+msgid "Computer/Internet"
+msgstr "コンピューターとネット"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:146
+msgid "SEO/SEM"
+msgstr "SEO・SEM・アクセスアップ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:147
+msgid "Mail Magazine"
+msgstr "メルマガ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:148
+msgid "Homepage"
+msgstr "ホームページ（PC・ケータイ）"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:149
+msgid "Blog/SNS/Tools"
+msgstr "ブログ・SNS・ツール・その他"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:150
+msgid "Home/Living"
+msgstr "家庭と暮らし"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:151
+msgid "Life"
+msgstr "生活"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:152
+msgid "Children"
+msgstr "こども"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:153
+msgid "Cooking"
+msgstr "料理"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:154
+msgid "Marriage"
+msgstr "結婚"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:155
+msgid "Troubles of life"
+msgstr "生活の悩み"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:156
+msgid "Other(Home/Living)"
+msgstr "その他(家庭と暮らし)"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:157
+msgid "Beauty/Health"
+msgstr "美容・健康"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:158
+msgid "Diet"
+msgstr "ダイエット"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:159
+msgid "Beauty regimen"
+msgstr "美容法"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:160
+msgid "Body worries"
+msgstr "体の悩み"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:161
+msgid "Medical care"
+msgstr "医療"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:162
+msgid "Health"
+msgstr "健康"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:163
+msgid "Other(Beauty/Health)"
+msgstr "その他(美容・健康)"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:164
+msgid "Learning"
+msgstr "学習・自己啓発"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:165
+msgid "Language study"
+msgstr "語学・留学"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:166
+msgid "Qualification"
+msgstr "資格・技術"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:167
+msgid "Self-development"
+msgstr "自己啓発"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:168
+msgid "Other(Learning)"
+msgstr "その他(学習・自己啓発)"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:169
+msgid "Entertainment"
+msgstr "エンターテイメント"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:170
+msgid "Fortune-telling"
+msgstr "占い"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:171
+msgid "Game"
+msgstr "ゲーム"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:172
+msgid "Hobby/Music/Sport"
+msgstr "趣味・音楽・スポーツ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:173
+msgid "Gourmet/Travel"
+msgstr "グルメ・旅行"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:174
+msgid "Other(Entertainment)"
+msgstr "その他(エンターテイメント)"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:175
+msgid "Content"
+msgstr "コンテンツ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:176
+msgid "Novel"
+msgstr "小説"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:177
+msgid "Music"
+msgstr "音楽"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:178
+msgid "Image"
+msgstr "映像"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:179
+msgid "Material"
+msgstr "素材集"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:180
+msgid "Ringtone"
+msgstr "着メロ・着うた"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:181
+msgid "Decoration Mail"
+msgstr "デコメ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:182
+msgid "Comic"
+msgstr "マンガ・同人"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:183
+msgid "Photo album"
+msgstr "写真集・グラビア"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:184
+msgid "Game/Application"
+msgstr "ゲーム・アプリ"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:185
+msgid "Other(Content)"
+msgstr "その他(コンテンツ)"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:186
+msgid "Love/Communication"
+msgstr "恋愛・コミュニケーション"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:187
+msgid "Love technique"
+msgstr "恋愛術"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:188
+msgid "Conversation technique"
+msgstr "会話術"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:189
+msgid "Relationship"
+msgstr "人間関係"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:190
+msgid "Other(Love)"
+msgstr "その他(恋愛・コミュニケーション)"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:191
+msgid "Other"
+msgstr "その他"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:192
+msgid "Adult"
+msgstr "アダルト"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:193
+msgid "Gamble"
+msgstr "ギャンブル"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:194
+msgid "Hot(30days)"
+msgstr "売れ筋（30日間）"
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:265
+msgid "Width:"
+msgstr "横幅："
+
+#: C:\Users\iwasaki\Desktop\task\plugins\infotop-ranking-widget/infotop-ranking-widget.php:274
+msgid "Height:"
+msgstr "縦幅："
